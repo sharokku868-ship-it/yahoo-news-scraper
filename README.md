@@ -1,0 +1,2 @@
+# yahoo-news-scraper
+PythonでYahooニュースをスクレイピングしてCSVに保存するツール
